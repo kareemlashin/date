@@ -407,6 +407,7 @@ body.dark {
 
 .dark .sec-2 button {
   background-color: #fef166;
+  color: #070e2b;
 }
 
 .dark .sec-2 {
@@ -544,10 +545,12 @@ body.dark {
 
 .dark .layerThree button {
   background-color: #fef166;
+  color: #070e2b;
 }
 
 .dark .layerRamadan button {
   background-color: #fef166;
+  color: #070e2b;
 }
 
 header .container {
